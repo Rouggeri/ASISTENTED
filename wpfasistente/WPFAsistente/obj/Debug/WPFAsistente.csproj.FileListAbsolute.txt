@@ -1,0 +1,32 @@
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\bin\Debug\WPFAsistente.exe.config
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\bin\Debug\WPFAsistente.exe
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\bin\Debug\WPFAsistente.pdb
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.csprojResolveAssemblyReference.cache
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\MainWindow.g.cs
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\App.g.cs
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente_MarkupCompile.cache
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente_MarkupCompile.lref
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\MainWindow.baml
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.g.resources
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.Properties.Resources.resources
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.csproj.GenerateResource.Cache
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.exe
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.pdb
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\bin\Debug\ComandosDefecto.txt
+c:\users\marvin\documents\visual studio 2015\Projects\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente_Content.g.cs
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\bin\Debug\WPFAsistente.exe.config
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.exe
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.pdb
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\bin\Debug\ComandosDefecto.txt
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\bin\Debug\WPFAsistente.exe
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\bin\Debug\WPFAsistente.pdb
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.csprojResolveAssemblyReference.cache
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\MainWindow.g.cs
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\App.g.cs
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente_Content.g.cs
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente_MarkupCompile.cache
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente_MarkupCompile.lref
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\MainWindow.baml
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.g.resources
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.Properties.Resources.resources
+C:\Users\Marvin\Documents\GitHub\ASISTENTED\WPFAsistente\WPFAsistente\obj\Debug\WPFAsistente.csproj.GenerateResource.Cache
